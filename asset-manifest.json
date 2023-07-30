@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashdeep.calculator.github.io/static/css/main.5f051d6a.css",
+    "main.js": "/ashdeep.calculator.github.io/static/js/main.79006cf0.js",
+    "static/js/787.a174f9e5.chunk.js": "/ashdeep.calculator.github.io/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/ashdeep.calculator.github.io/index.html",
+    "main.5f051d6a.css.map": "/ashdeep.calculator.github.io/static/css/main.5f051d6a.css.map",
+    "main.79006cf0.js.map": "/ashdeep.calculator.github.io/static/js/main.79006cf0.js.map",
+    "787.a174f9e5.chunk.js.map": "/ashdeep.calculator.github.io/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f051d6a.css",
+    "static/js/main.79006cf0.js"
+  ]
+}
